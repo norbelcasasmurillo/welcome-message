@@ -35,7 +35,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-Domain Controller -> Server Manager -> Local Server -> Tools -> Group Policy Management 
+Domain Controller -> Server Manager -> Tools -> Group Policy Management 
 </p>
 <br />
 

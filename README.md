@@ -3,7 +3,7 @@
 </p>
 
 <h1>Active Directory - Group Policy Management: Welcome Message</h1>
-This tutorial explains how to configure a welcome message using Group Policy Management in Active Directory.<br />
+This tutorial walks through setting a custom welcome message on login using Group Policy in Active Directory.<br />
 
 
 <h2>Video Demonstration</h2>

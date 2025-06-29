@@ -10,13 +10,13 @@ This tutorial walks through setting a custom welcome message on login using Grou
 <h2>Why Use a Login Welcome Message?</h2>
 Displaying a custom message at login is a simple but powerful way to share important information with users before they access their desktops. Organizations commonly use these messages for:
 
-Legal disclaimers and compliance notices
+- Legal disclaimers and compliance notices
 
-Company policies or security warnings
+- Company policies or security warnings
 
-General announcements or support contact info
+- General announcements or support contact info
 
-By configuring this through Group Policy, you can ensure consistent messaging across all domain-joined computers.
+- By configuring this through Group Policy, you can ensure consistent messaging across all domain-joined computers.
 
 <h2>Environments and Technologies Used</h2>
 

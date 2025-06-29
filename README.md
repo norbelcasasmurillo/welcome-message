@@ -9,9 +9,10 @@ This tutorial walks through setting a custom welcome message on login using Grou
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+- Microsoft Azure (Virtual Machines/Computer) (Optional unless you on't have access to mutliple desktops within a Domain Controller and Local Users)
+- Remote Desktop (Optional unless you on't have access to mutliple desktops within a Domain Controller and Local Users)
+- Group Policy Management
+- Avtive Directory 
 
 <h2>Operating Systems Used </h2>
 
@@ -20,6 +21,7 @@ This tutorial walks through setting a custom welcome message on login using Grou
 <h2>List of Prerequistess</h2>
 
 - Domain Controller Windows setup prior (Virtual Machine or Physcial)
+- Local Users Accounts setup in Forest within the Domain Controller
   
 
 <h2>Configuration Steps</h2>

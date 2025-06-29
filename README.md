@@ -7,13 +7,23 @@
 This tutorial walks through setting a custom welcome message on login using Group Policy in Active Directory.<br />
 
 
+<h2>Why Use a Login Welcome Message?</h2>
+Displaying a custom message at login is a simple but powerful way to share important information with users before they access their desktops. Organizations commonly use these messages for:
+
+Legal disclaimers and compliance notices
+
+Company policies or security warnings
+
+General announcements or support contact info
+
+By configuring this through Group Policy, you can ensure consistent messaging across all domain-joined computers.
+
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Computer) (Optional*)
-- Remote Desktop (Optional*) 
+- Microsoft Azure (Virtual Machines – Optional)
+- Remote Desktop (RDP) (Optional) 
 - Group Policy Management
 - Active Directory
-- Note: Optional* refers to unless you don't have access to mutliple desktops within a Domain Controller and Local Users, then you do need this environment.
 
 <h2>Operating Systems Used </h2>
 
@@ -21,8 +31,8 @@ This tutorial walks through setting a custom welcome message on login using Grou
 
 <h2>List of Prerequisites</h2>
 
-- Domain Controller Windows setup prior (Virtual Machine or Physical)
-- Local Users Accounts setup in Forest within Active Directory
+- A working Domain Controller
+- At least one domain-joined client machine.
   
 
 <h2>Configuration Steps</h2>

@@ -38,7 +38,7 @@ Displaying a custom message at login is a simple but powerful way to share impor
 <h2>Configuration Steps</h2>
 
 <p align="center">
-Domain Controller (Log in. VM or physical Windows Domain Controller) -> Server Manager -> Tools -> Group Policy Management 
+Domain Controller (Log in) -> Server Manager -> Tools -> Group Policy Management 
 
 </p>
 <p>

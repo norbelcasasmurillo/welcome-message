@@ -111,3 +111,9 @@ Attempt to log in. A blue screen with a message should appear.
 </p>
 <br />
 
+<h3 align="center">Conclusion</h3>
+
+<p align="center">
+Great job! You've successfully set up osTicket on your Windows virtual machine. To avoid unnecessary charges, be sure to shut down the VM in Azure when you're not using it. Well done on completing this project!
+</p>
+

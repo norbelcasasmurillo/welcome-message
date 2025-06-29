@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+![image](https://github.com/user-attachments/assets/b88b3ef5-eafc-4553-ba84-aba8c75d7797)
 </p>
 
 <h1>Active Directory - Group Policy Management: Welcome Message</h1>
@@ -16,14 +16,12 @@ This tutorial walks through setting a custom welcome message on login using Grou
 
 - Windows 10</b> (21H2)
 
-<h2>Ticket Lifecycle Stages</h2>
+<h2>List of Prerequistess</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+- Domain Controller Windows setup prior (Virtual Machine or Physcial)
+  
 
-<h2>Lifecycle Stages</h2>
+<h2>Configuration Steps</h2>
 
 <p align="center">
 Domain Controller (Log in. VM OR real Windows Domain Controller) -> Server Manager -> Tools -> Group Policy Management 

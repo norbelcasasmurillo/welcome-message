@@ -30,7 +30,7 @@ This tutorial walks through setting a custom welcome message on login using Grou
 <h2>Lifecycle Stages</h2>
 
 <p align="center">
-Domain Controller -> Server Manager -> Tools -> Group Policy Management 
+Domain Controller (Log in. VM OR real Windows Domain Controller) -> Server Manager -> Tools -> Group Policy Management 
 
 </p>
 <p>

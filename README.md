@@ -22,7 +22,7 @@ This tutorial walks through setting a custom welcome message on login using Grou
 <h2>List of Prerequistess</h2>
 
 - Domain Controller Windows setup prior (Virtual Machine or Physcial)
-- Local Users Accounts setup in Forest within the Domain Controller
+- Local Users Accounts setup in Forest within Active Directory
   
 
 <h2>Configuration Steps</h2>

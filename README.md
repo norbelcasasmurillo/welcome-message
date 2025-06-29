@@ -28,7 +28,7 @@ This tutorial walks through setting a custom welcome message on login using Grou
 <h2>Configuration Steps</h2>
 
 <p align="center">
-Domain Controller (Log in. VM OR real Windows Domain Controller) -> Server Manager -> Tools -> Group Policy Management 
+Domain Controller (Log in. VM or physical Windows Domain Controller) -> Server Manager -> Tools -> Group Policy Management 
 
 </p>
 <p>
@@ -114,6 +114,6 @@ Attempt to log in. A blue screen with a message should appear.
 <h3 align="center">Conclusion</h3>
 
 <p align="center">
-Great job! You've successfully set up osTicket on your Windows virtual machine. To avoid unnecessary charges, be sure to shut down the VM in Azure when you're not using it. Well done on completing this project!
-</p>
+
+**Well done!** You've successfully configured a custom login welcome message using Group Policy in Active Directory. This is a simple yet effective way to communicate important information, such as company policies or legal notices, to users at login. Remember to test your settings across different user accounts to ensure proper deployment. Great job on completing this tutorial!</p>
 

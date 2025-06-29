@@ -9,10 +9,11 @@ This tutorial walks through setting a custom welcome message on login using Grou
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Computer) (Optional unless you on't have access to mutliple desktops within a Domain Controller and Local Users)
-- Remote Desktop (Optional unless you on't have access to mutliple desktops within a Domain Controller and Local Users)
+- Microsoft Azure (Virtual Machines/Computer) (Optional*)
+- Remote Desktop (Optional*) 
 - Group Policy Management
-- Avtive Directory 
+- Avtive Directory
+- Note: Optional* refers to unless you don't have access to mutliple desktops within a Domain Controller and Local Users, then you do need this environment.
 
 <h2>Operating Systems Used </h2>
 

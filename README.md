@@ -12,16 +12,16 @@ This tutorial walks through setting a custom welcome message on login using Grou
 - Microsoft Azure (Virtual Machines/Computer) (Optional*)
 - Remote Desktop (Optional*) 
 - Group Policy Management
-- Avtive Directory
+- Active Directory
 - Note: Optional* refers to unless you don't have access to mutliple desktops within a Domain Controller and Local Users, then you do need this environment.
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequistess</h2>
+<h2>List of Prerequisites</h2>
 
-- Domain Controller Windows setup prior (Virtual Machine or Physcial)
+- Domain Controller Windows setup prior (Virtual Machine or Physical)
 - Local Users Accounts setup in Forest within Active Directory
   
 
@@ -91,7 +91,7 @@ Click on "Interactive Logon: Message Text". Select the Define box. Type the Comp
 <br />
 
 <p align="center">
-Close all tab processes. Open a Command Prompt as Adminitrator. Enter the command gpupdate /force. Once complete, then enter the command logoff.
+Close all tab processes. Open a Command Prompt as Administrator. Enter the command gpupdate /force. Once complete, then enter the command logoff.
 
 </p>
 <p>

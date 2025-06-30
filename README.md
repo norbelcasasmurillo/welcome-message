@@ -4,7 +4,7 @@
 </p>
 
 <h1>Active Directory - Group Policy Management: Welcome Message</h1>
-This tutorial walks through setting a custom welcome message on login using Group Policy in Active Directory.<br />
+This tutorial walks through configuring a custom welcome message that appears at user login, using **Group Policy Management within an Active Directory domain environment**. You'll learn how to centrally manage this setting via a Group Policy Object (GPO) applied through Active Directory.<br />
 
 
 <h2>Why Use a Login Welcome Message?</h2>

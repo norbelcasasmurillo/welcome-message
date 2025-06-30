@@ -5,7 +5,7 @@
 
 <h1>Active Directory - Group Policy Management: Welcome Message</h1>
 
-This tutorial walks through configuring a custom welcome message that appears at user login, using **Group Policy Management within an Active Directory domain environment**. You'll learn how to centrally manage this setting via a Group Policy Object (GPO) applied through Active Directory.<br />
+This tutorial walks through how to configure a custom welcome message that appears when a user logs in, using **Group Policy Management in an Active Directory domain environment**. You’ll learn how to centrally apply this setting through a Group Policy Object (GPO) managed by Active Directory<br />
 
 
 <h2>Why Use a Login Welcome Message?</h2>
@@ -23,8 +23,10 @@ Displaying a custom message at login is a simple but powerful way to share impor
 
 - Microsoft Azure (Virtual Machines – Optional)
 - Remote Desktop (RDP) (Optional) 
-- Group Policy Management
-- Active Directory
+- Active Directory Domain Services (AD DS)
+- Group Policy Management Console (via AD DS)
+
+
 
 <h2>Operating Systems Used </h2>
 

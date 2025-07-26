@@ -1,10 +1,10 @@
 <p align="center">
 
-![image](<img width="641" height="263" alt="image" src="https://github.com/user-attachments/assets/bd50ae14-9678-47ca-940b-abf928acafe7" />
+<img width="641" height="263" alt="image" src="https://github.com/user-attachments/assets/cabd02b0-88a3-49a5-9075-82a849806444" />
 )
 </p>
 
-<h1>Active Directory - Group Policy Management: Welcome Message</h1>
+<h1>Group Policy Management: Welcome Message</h1>
 
 This tutorial walks through how to configure a custom welcome message that appears when a user logs in, using **Group Policy Management in an Active Directory domain environment**. You’ll learn how to centrally apply this setting through a Group Policy Object (GPO) managed by Active Directory<br />
 

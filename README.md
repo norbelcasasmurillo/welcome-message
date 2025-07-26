@@ -1,6 +1,7 @@
 <p align="center">
 
-![image](https://github.com/user-attachments/assets/b88b3ef5-eafc-4553-ba84-aba8c75d7797)
+![image](<img width="641" height="263" alt="image" src="https://github.com/user-attachments/assets/bd50ae14-9678-47ca-940b-abf928acafe7" />
+)
 </p>
 
 <h1>Active Directory - Group Policy Management: Welcome Message</h1>
